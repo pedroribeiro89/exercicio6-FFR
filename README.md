@@ -1,2 +1,2 @@
 # exercicio6-FFR
-Try Presentation/Containier using react
+Use Presentation/Containier components, deploy with netlify
